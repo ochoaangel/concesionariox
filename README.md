@@ -21,7 +21,8 @@ información del reporte en un formato PDF.
 //-------------------------------------------
 
 Requerimientos del Aplicativo Web
-- Crear una Base de Datos llamada concesionario
+- Descargar  y descomprimir el archivo concesionariox.rar en la direccion adecuada para ejecutar en el servidor.
+- Crear una Base de Datos (mysql) llamada concesionario
 - Ejecutar el script llamado conscesionario.sql para generar las tablas e insertar datos de prueba..
 - Datos necesarios para acceso a base de datos, se pueden modifcar en el archivo db_conection.php ubicaso en la carpeta 'general'
 		- $host="localhost";
